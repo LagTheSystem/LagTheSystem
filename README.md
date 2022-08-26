@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LagTheSystem</h1>
-- 👨‍💻 All of my projects are available at [https://lagthesystem.dev](https://lagthesystem.dev)
+- 👨‍💻 All of my projects are available at https://lagthesystem.dev
 
 - 📫 How to reach me **lagthesystem@gmail.com**
 
