@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LagTheSystem</h1>
-- 👨‍💻 All of my projects are available at <s>https://lagthesystem.dev</s>
+- 👨‍💻 All of my projects are available at <s>lagthesystem.dev</s>
 
 - 📫 How to reach me **lagthesystem@duck.com**
 
