@@ -18,6 +18,7 @@
     "email": "lagthesystem@duck.com",
     "discord": "LagTheSystem"
   },
+  "monero": "46jAfyS5GHfYzgcnFRbuyPdfqgjeeJ5NbDQsfxg3HfLHK4EEDpkvriaKFk92mJNmpUdDJFa1c2SiaMRmvwhnMxbF9yZW4Bq",
   "readme": "stolen from 3kh0"
 }
 ```
