@@ -4,8 +4,8 @@
 {
   "name": "LagTheSystem",
   "age": "undefined",
-  "intrests": ["coding", "photography", "gaming", "virtual reality"],
-  "operatingSystems": ["Windows 11", "Windows 10", "Debian", "MacOS Monterey", "Ubuntu", "Kali"], 
+  "interests": ["coding", "photography", "gaming", "virtual reality"],
+  "operatingSystems": ["Windows 11", "Windows 10", "Debian", "MacOS Monterey", "Ubuntu", "Kali"],
   "browser": "Firefox Developer Edition",
   "browserExtensions": ["uBlock Origin", "Tampermonkey", "LocalCDN", "FastForward", "ClearURLs", "Buster", "Return YT Dislike", "SponsorBlock"],
   "programmingLanguages": ["Javascript", "HTML", "C++", "Python", "CSS"],
