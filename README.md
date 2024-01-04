@@ -16,6 +16,7 @@
     "mastodon": "@lagthesystem@threads.net (soon)",
     "steam": "steamcommunity.com/id/lagthesystem",
     "email": "lagthesystem@duck.com",
+    "bluesky" : "@lagthesystem.dev",
     "discord": "LagTheSystem"
   },
   "monero": "46jAfyS5GHfYzgcnFRbuyPdfqgjeeJ5NbDQsfxg3HfLHK4EEDpkvriaKFk92mJNmpUdDJFa1c2SiaMRmvwhnMxbF9yZW4Bq",
