@@ -13,8 +13,6 @@
   "website": "lagthesystem.dev",
   "socials": {
     "youtube": "LagTheSystem",
-    "threads": "lagthesystem",
-    "mastodon": "@lagthesystem@threads.net (soon)",
     "steam": "steamcommunity.com/id/lagthesystem",
     "email": "lagthesystem@duck.com",
     "bluesky" : "@lagthesystem.dev",
