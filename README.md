@@ -7,7 +7,7 @@
   "operatingSystems": ["Windows 11/10", "Debian", "MacOS", "Ubuntu"],
   "browser": "Firefox Developer Edition",
   "browserExtensions": ["uBlock Origin", "Tampermonkey", "LocalCDN", "ClearURLs", "Buster", "Return YT Dislike", "SponsorBlock"],
-  "programmingLanguages": ["Javascript", "HTML", "C++", "Python", "CSS"],
+  "programmingLanguages": ["Javascript", "HTML", "C++", "Python", "CSS", "Java"],
   "editor": "VSCode or IntelliJ (also technically CodePen for experiments)",
   "website": "lagthesystem.dev",
   "socials": {
