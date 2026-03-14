@@ -5,10 +5,10 @@
   "name": "LagTheSystem",
   "interests": ["coding", "photography", "gaming", "virtual reality"],
   "operatingSystems": ["Windows 11/10", "Debian", "MacOS"],
-  "browser": "Firefox Developer Edition",
+  "browser": "Librewolf",
   "browserExtensions": ["uBlock Origin", "LocalCDN", "ClearURLs", "Buster", "Return YT Dislike", "SponsorBlock"],
   "programmingLanguages": ["Javascript", "HTML", "C++", "Python", "CSS", "Java"],
-  "editor": "VSCode or IntelliJ (also technically CodePen for experiments)",
+  "editor": "VSCode or IntelliJ",
   "website": "lagthesystem.dev",
   "socials": {
     "youtube": "LagTheSystem",
